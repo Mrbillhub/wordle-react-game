@@ -148,3 +148,4 @@ Potential improvements that could be added:
 
 This implementation demonstrates proficiency in React development, state management, component design, CSS animations, event handling, and creating engaging user interfaces.
 # wordle-react-game
+# wordle-react-game
